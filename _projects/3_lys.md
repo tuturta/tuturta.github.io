@@ -18,7 +18,7 @@ We developed a **modular 3-stage pipeline** that integrates state-of-the-art tec
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Schematic diagram of the 3-stage pipeline for training an animal-shaped robot by imitating an animal video available on the internet.
 </div>
 
 The main challenge of this approach lies in the motion retargeting stage, where the pipeline must respect the robot’s physical constraints to ensure realistic and executable movements. This work provides insights into building **modular, robust pipelines** for transferring animal behavior to robotic systems, paving the way for more naturalistic and adaptive robot locomotion.  
