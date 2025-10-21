@@ -402,36 +402,36 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-autonomous-sensing-in-polar-regions",
-          title: 'Autonomous Sensing in Polar Regions.',
-          description: "Master Thesis + Research Engineer (EERL) | 2025.03 - 2026.01",
+          section: "News",},{id: "projects-sailowtech-alpine-lake",
+          title: 'Sailowtech | Alpine Lake',
+          description: "Science Coordinator | February 2024 | Lake Geneva",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_eerl/";
-            },},{id: "projects-ai-for-bioacoustic-detection-of-coral-reefs",
-          title: 'AI for Bioacoustic Detection of Coral Reefs',
-          description: "Master Internship (ReefPulse) | 2024.09 - 2025.03",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_rp/";
-            },},{id: "projects-robot-locomotion-learning-with-imitation",
-          title: 'Robot Locomotion Learning with Imitation',
-          description: "Master Project (LIS) | 2024.02 - 2024.07",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_lys/";
-            },},{id: "projects-deep-learning-for-dynamic-aperture-measurement",
-          title: 'Deep Learning for Dynamic Aperture Measurement',
-          description: "Master Project (CERN) | 2022.09 - 2023.01",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_cern/";
+              window.location.href = "/projects/alpinelake/";
             },},{id: "projects-sailowtech-arvor",
           title: 'Sailowtech | Arvor',
           description: "Science Coordinator | July 2024 | English Channel",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_arvor/";
-            },},{id: "projects-sailowtech-alpine-lake",
-          title: 'Sailowtech | Alpine Lake',
-          description: "Science Coordinator | February 2024 | Lake Geneva",
+              window.location.href = "/projects/arvor/";
+            },},{id: "projects-deep-learning-for-dynamic-aperture-measurement",
+          title: 'Deep Learning for Dynamic Aperture Measurement',
+          description: "Master Project (CERN) | 2022.09 - 2023.01",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_alpinelake/";
+              window.location.href = "/projects/cern/";
+            },},{id: "projects-autonomous-sensing-in-polar-regions",
+          title: 'Autonomous Sensing in Polar Regions.',
+          description: "Master Thesis + Research Engineer (EERL) | 2025.03 - 2026.01",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/eerl/";
+            },},{id: "projects-robot-locomotion-learning-with-imitation",
+          title: 'Robot Locomotion Learning with Imitation',
+          description: "Master Project (LIS) | 2024.02 - 2024.07",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lis/";
+            },},{id: "projects-ai-for-bioacoustic-detection-of-coral-reefs",
+          title: 'AI for Bioacoustic Detection of Coral Reefs',
+          description: "Master Internship (ReefPulse) | 2024.09 - 2025.03",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rp/";
             },},{
         id: 'social-email',
         title: 'email',
