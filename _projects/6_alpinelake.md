@@ -72,3 +72,5 @@ All instruments and documentation were shared under open-science principles, pro
     The Sailowtech team with whom I led this expedition.
 </div>
 
+---
+📸 Arthur Jacobs

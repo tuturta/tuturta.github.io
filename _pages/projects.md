@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Some of my projects that I am proud of...
 nav: true
 nav_order: 2
 display_categories: [Academic, Volunteer]

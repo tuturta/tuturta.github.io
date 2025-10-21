@@ -79,4 +79,5 @@ All designs were created from recycled materials and openly documented to promot
     The Sailowtech team with whom I led this expedition.
 </div>
 
-
+---
+📸 Arthur Jacobs

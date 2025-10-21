@@ -29,3 +29,6 @@ For a detailed description of the project, you can access my [Master’s thesis 
 **Project Supervisor & Contact:**  
 [Pr. Julia Schmale](mailto:julia.schmale@epfl.ch) – Assistant Professor, Extreme Environmental Research Laboratory (EERL)   
 [Dr. Roman Pohorsky](mailto:roman.pohorsky@epfl.ch) – Postdoctoral Researcher, Extreme Environmental Research Laboratory (EERL)
+
+---
+📸 Lionel Favre
