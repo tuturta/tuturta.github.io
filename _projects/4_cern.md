@@ -4,7 +4,7 @@ title: Deep Learning for Dynamic Aperture Measurement
 description: Master Project (CERN) | 2022.09 - 2023.01
 img: assets/img/cern.jpg
 importance: 4
-category: work
+category: Academic
 ---
 
 The **Dynamic Aperture (DA)** is a key concept in accelerator physics, defining the region of phase space where particle motion remains stable over time. Its accurate measurement is crucial for understanding beam losses and improving the operation of accelerators such as the LHC at CERN, as well as for designing future accelerators. Traditional methods approximate the DA as a regular circle or rely on numerical integration, which can be slow or insufficiently precise due to nonlinear effects that create complex, irregular shapes.

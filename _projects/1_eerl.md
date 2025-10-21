@@ -4,8 +4,7 @@ title: Autonomous Sensing in Polar Regions.
 description: Master Thesis + Research Engineer (EERL) | 2025.03 - 2026.01
 img: assets/img/eerl2.jpg
 importance: 1
-category: work
-related_publications: false
+category: Academic
 ---
 
 Atmospheric aerosols — tiny particles suspended in the air — play a crucial role in Earth’s climate by influencing solar radiation and cloud formation. Yet, understanding their vertical distribution, especially in remote regions like the Arctic, remains a major challenge for accurate climate modeling. To tackle this, I contributed to the improvement of the [Modular Multiplatform Compatible Air System (MoMuCAMS)](https://amt.copernicus.org/articles/17/731/2024/) at the Extreme Environments Research Laboratory (EERL), a tethered-balloon platform designed for in situ measurements of aerosols and trace gases in the lower troposphere under harsh environmental conditions.

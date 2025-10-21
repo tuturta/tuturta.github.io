@@ -4,7 +4,7 @@ title: AI for Bioacoustic Detection of Coral Reefs
 description:  Master Internship (ReefPulse) | 2024.09 - 2025.03
 img: assets/img/rp.jpg
 importance: 2
-category: work
+category: Academic
 ---
 
 During my internship at **Reef Pulse**, I developed and implemented **deep learning models** for detecting and classifying bioacoustic events around coral reefs. Reef Pulse focuses on continuous monitoring of reef ecosystems using soundscapes and AI to provide scalable and objective assessments of reef health.  

@@ -4,8 +4,7 @@ title: Robot Locomotion Learning with Imitation
 description: Master Project (LIS) | 2024.02 - 2024.07
 img: assets/img/il1.jpg
 importance: 3
-category: work
-giscus_comments: false
+category: Academic
 ---
 
 Learning complex behaviors in high-dimensional action and state spaces, such as animal locomotion, is a major challenge in robotics. This project explores the use of **Imitation Learning (IL)** to train animal-shaped robots in the MuJoCo simulator by leveraging online videos of animals as expert demonstrations.  
