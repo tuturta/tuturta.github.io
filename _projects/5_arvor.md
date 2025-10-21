@@ -49,7 +49,7 @@ Our goals were to:
     </div>
 </div>
 <div class="caption">
-    Left: the Open-CO₂ tool. | Middle: Lorraine and I deep in thought about the CTD. | Right: Nils repairing the CTD.
+    Left: the Open-CO₂ tool. | Middle: Lorraine and I deep in thought about the CTD. | right: Nils repairing the CTD.
 </div>
 
 - **Plankton Ecology & Microscopy**: sampling and classification of phytoplankton and zooplankton communities, studying their diversity, abundance, and relation to physical-chemical gradients (temperature, salinity, pH, oxygen).

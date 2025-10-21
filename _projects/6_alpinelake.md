@@ -22,7 +22,7 @@ category: Volunteer
     Our expedition boat in the middle of Lake Geneva
 </div>
 
-As **Vice-President for Science (Science Coordinator)**, I led the ****scientific direction and coordination** **of the *Alpine Lake 2024 Expedition*, a 10-day interdisciplinary research mission uniting more than 20 EPFL students.  
+As **Vice-President for Science (Science Coordinator)**, I led the scientific direction and coordination of the *Alpine Lake 2024 Expedition*, a 10-day interdisciplinary research mission uniting more than 20 EPFL students.  
 Our goal was to study the effects of climate change on the planktonic ecosystems and sediments of Lake Geneva, while testing new open-source scientific instruments and low-tech environmental monitoring tools.
 
 ### 🔬 Scientific Focus
