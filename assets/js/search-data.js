@@ -422,6 +422,16 @@ ninja.data = [{
           description: "Master Project (CERN) | 2022.09 - 2023.01",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_cern/";
+            },},{id: "projects-sailowtech-arvor",
+          title: 'Sailowtech | Arvor',
+          description: "Science Coordinator | July 2024 | English Channel",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_arvor/";
+            },},{id: "projects-sailowtech-alpine-lake",
+          title: 'Sailowtech | Alpine Lake',
+          description: "Science Coordinator | February 2024 | Lake Geneva",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_alpinelake/";
             },},{
         id: 'social-email',
         title: 'email',
