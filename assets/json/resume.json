@@ -1,12 +1,10 @@
 {
   "basics": {
     "name": "Arthur Tabary",
-    "label": "Physicist and Engineer in Computational Science",
+    "label": "Physicist and Data Science Engineer",
     "email": "arthurtabary@gmail.com",
     "phone": "+33 652 48 28 15",
     "location": {
-      "address": "Avenue de la gare 31B",
-      "postalCode": "1022",
       "city": "Chavannes-près-Renens",
       "region": "VD",
       "countryCode": "CH"
@@ -23,7 +21,7 @@
         "username": "arthur-tabary"
       }
     ],
-    "summary": "Physicist and engineer specializing in computational science with experience in machine learning, image analysis, and computer graphics."
+    "summary": "Physicist and engineer specializing in computational science with experience in machine learning, data science, and computer graphics."
   },
   "education": [
     {
