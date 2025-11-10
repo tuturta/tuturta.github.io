@@ -427,6 +427,11 @@ ninja.data = [{
           description: "Master Project (LIS) | 2024.02 - 2024.07",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lis/";
+            },},{id: "projects-language-proficiency-and-authorship-classification-strength",
+          title: 'Language Proficiency and Authorship Classification Strength',
+          description: "Course Project (CS-433) | 2023.12 - 2024.02",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nlp/";
             },},{id: "projects-ai-for-bioacoustic-detection-of-coral-reefs",
           title: 'AI for Bioacoustic Detection of Coral Reefs',
           description: "Master Internship (ReefPulse) | 2024.09 - 2025.03",
