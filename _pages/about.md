@@ -6,7 +6,7 @@ subtitle: AI & Data Engineer for Environmental Research
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_cv.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
